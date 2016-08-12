@@ -23,7 +23,7 @@ Package.onUse(function(api) {
   api.use([
     'peerlibrary:blaze-components@0.14.0',
     'mquandalle:jade@0.4.3',
-    'fourseven:scss@3.3.3_3'
+    'fourseven:scss'
   ], 'client');
 
 
